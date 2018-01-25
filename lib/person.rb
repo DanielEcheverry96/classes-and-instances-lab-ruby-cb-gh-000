@@ -6,4 +6,5 @@ end
 adele_goldberg = new.Person
 alan_kay = new.Person
 
-#adele_gold
+adele_gold
+alan_kay
