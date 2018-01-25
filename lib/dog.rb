@@ -3,8 +3,8 @@ class Dog
 end
 
 fido = new.Dog
-#fido
+fido
 snoopy = new.Dog
-#snoopy
+snoopy
 lassie = new.Dog
-#lassie
+lassie
